@@ -1,0 +1,7 @@
+All of the code contained in this repository is licensed under the GNU GPL v3
+
+reddit-link-unscripter is a bot written in Python using the reddit_api module.
+Its purpose is to find posts and comments that contain links to websites that 
+are known to require javascript to render primary content. It then replies 
+with alternate links to the same content, such as a printable or mobile version 
+of the page.
